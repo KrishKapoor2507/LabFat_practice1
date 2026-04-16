@@ -12,7 +12,7 @@ Git Commands:
 11.	From staging area to local repo: $git commit -m “comments”
 12.	List of git commits: $git log
 13.	“ in one line: $git log –oneline
- 
+ \n\n\\n\\n\n\nn\\n
 Docker Commands:
 1.	List of docker images: >>docker image ls OR  >>docker images
 2.	Download image from dockerhub: >>docker pull image-name
